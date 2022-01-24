@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Recursive:wght@300&display=swap');
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, Poppins , BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,'Press Start 2P', cursive,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
